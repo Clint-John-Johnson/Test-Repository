@@ -1,6 +1,5 @@
 a=1
 b=2
 print(result is, a+b)
-d=10
-e=12
+
 
